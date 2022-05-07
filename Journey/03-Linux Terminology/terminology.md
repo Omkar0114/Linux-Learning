@@ -10,5 +10,8 @@
 - command line
 
 
-1. Kernel : Kernel is the Glue between Hardware and applications.
+# Kernel :
+
+### Kernel is the Glue between Hardware and applications.
+
 
